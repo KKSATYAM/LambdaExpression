@@ -6,6 +6,7 @@
 /*class Employee
 {
 	int salary;
+	int id;
 	String name;
 	public Employee(int salary,String name) {
 		// TODO Auto-generated constructor stub
